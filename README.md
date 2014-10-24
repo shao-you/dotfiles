@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-git clone https://github.com/shao-you/dotfiles.git
+git clone https://github.com/shao-you/dotfiles.git  
 cd dotfile
 
 Reference
