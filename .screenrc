@@ -1,0 +1,14 @@
+startup_message off
+caption always "%{=u .G} %-w%<%{=ub .y}%n %t%{=u .G}%+w "
+hardstatus alwaysignore
+hardstatus alwayslastline "%{= .K} [%l]%<%=%{= .W}@%H %=%{= .y} %Y/%m/%d%{= .m} %0c:%s "
+# http://chunchaichang.blogspot.tw/2010_06_04_archive.html
+
+# bind F9 to create a new screen
+bindkey -k k9 screen
+# bind F10 to kill current screen window
+bindkey -k k; kill
+# bind F11 to move to previous window
+bindkey -k F1 prev
+# bind F12 to move to next window
+bindkey -k F2 next

@@ -1,0 +1,15 @@
+[user]
+  name = Shao-You Wu
+  email = s54088.cs98@g2.nctu.edu.tw
+
+[push]
+  default = current
+
+[commit]
+  template = ~/.gitmessage
+
+[core]
+  editor = emacs
+
+[color]
+  ui = true
