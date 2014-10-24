@@ -3,7 +3,9 @@ set nocompatible
 " Pathogen
 call pathogen#infect()
 call pathogen#helptags()
- 
+
+nnoremap <silent> <F5> :NERDTree<CR>
+set mouse=a
 set statusline=%<\ %n:%f\ %m%r%y%=%-35.(line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)%)
 filetype plugin indent on
  
