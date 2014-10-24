@@ -2,7 +2,7 @@ dotfiles
 ========
 
 git clone https://github.com/shao-you/dotfiles.git  
-cd dotfile
+cd dotfiles
 
 Reference
 
