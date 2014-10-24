@@ -9,7 +9,7 @@
   template = ~/.gitmessage
 
 [core]
-  editor = emacs
+  editor = vim
 
 [color]
   ui = true
